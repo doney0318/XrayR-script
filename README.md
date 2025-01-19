@@ -18,7 +18,7 @@ wget -N https://raw.githubusercontents.com/doney0318/XrayR-script/master/install
 ```
 # 新版
 ```
-wget -N https://raw.githubusercontents.com/doney0318/XrayR-script/master/install_new.sh && bash install_new.sh
+wget -N https://raw.githubusercontent.com/XrayR-project/XrayR-release/master/install.sh && bash install.sh
 ```
 
 # Docker 安装
