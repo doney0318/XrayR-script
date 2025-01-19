@@ -16,6 +16,10 @@ Find the source code here: [Misaka-blog/XrayR](https://github.com/Misaka-blog/Xr
 ```
 wget -N https://raw.githubusercontents.com/doney0318/XrayR-script/master/install.sh && bash install.sh
 ```
+# 新版
+```
+wget -N https://raw.githubusercontents.com/doney0318/XrayR-script/master/install_new.sh && bash install.sh
+```
 
 # Docker 安装
 
